@@ -1,4 +1,6 @@
-<h3 align="left">Hi 👋, I'm Oleksandr</h3>
+<h3 align="left">Hey 👋, I'm Oleksandr! Welcome to my Github page!</h3>
+
+Here you can find a few **NestJS** libraries and my **Node.js/Typescript** framework **Injexio.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
