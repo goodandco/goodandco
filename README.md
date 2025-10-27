@@ -1,6 +1,6 @@
 <h3 align="left">Hey 👋, I'm Oleksandr! Welcome to my Github page!</h3>
 
-Here you can find a few **NestJS** libraries and my **Obsidian** plugin **ProjectFlow**.
+Here you can find a few **NestJS** libraries and my **Obsidian** plugin **[ProjectFlow](https://github.com/goodandco/obsidian-project-flow)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
